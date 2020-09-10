@@ -5,15 +5,15 @@
 
 Input (noisy) HSV composite lifetime Image: In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
 
-![](Final%20results/image_input_PM_FLIM_073.png)
+![](Final_images/noisy_lifetime_rgb_image_png1.png)
 
 Denoised composte lifetime Image: From CNN ML model (with autoencoder architecture): In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
 
-![](Final%20results/estimated_128_rgb_3d.png)
+![](Final_images/denoised_lifetime_rgb_image_png1.png)
 
 Target composite lifetime Image: In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
 
-![](Final%20results/target_rgb_3d.png)
+![](Final_images/target_lifetime_rgb_image_png1.png)
 
 
 # ML model:
