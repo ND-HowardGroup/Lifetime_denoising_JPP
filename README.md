@@ -3,11 +3,11 @@
 
 # For lifetime denoising code:
 
-Input (noisy) HSV composite lifetime Image: In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
+Input (noisy) composite lifetime Image: In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
 
 ![](Final_images/noisy_lifetime_rgb_image_png1.png)
 
-Denoised composte lifetime Image: From CNN ML model (with autoencoder architecture): In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
+Denoised composte lifetime Image: From the trained Noise2Noise ML model (trained on the FMD dataset): In the HSV format, where hue and value are mapped to lifetime and intensity respectively.
 
 ![](Final_images/denoised_lifetime_rgb_image_png1.png)
 
